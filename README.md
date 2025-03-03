@@ -1351,8 +1351,8 @@ $ ./exread.sh
 ## OUTPUT
 
 ```
-Enter your name: Raja
-Hello Raja, welcome to my program. 
+Enter your name: Vinay
+Hello Vinay, welcome to my program. 
 ```
 
  cat exread1.sh
@@ -1369,8 +1369,8 @@ $ ./exread1.sh
 
 ## OUTPUT
 ```
-Enter your name: Raja
-Hello Raja, welcome to my program. 
+Enter your name: Vinay
+Hello Vinay, welcome to my program. 
 ```
 
 cat funcex.sh 
