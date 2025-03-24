@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-### NAME   : V RAKSHA DHARANIKA
-### REF NO : 212223230167
+### NAME   : K S Vinay Suhirthan
+### REF NO : 212224230305
 ### DEP    : AIDS
 
 # AIM:
